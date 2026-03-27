@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Training outputs
+runs/
+
+# Data & outputs
+data/
+outputs/
+
+
+# Pickle
+*.pkl
+
+# IDE
+.vscode/
+.vs/
